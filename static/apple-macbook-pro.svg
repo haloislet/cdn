@@ -1,0 +1,13 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <symbol id="svg_1" viewBox="83.911 298.53 426.962 243.838" height="1428" width="2500" xmlns="http://www.w3.org/2000/svg">
+   <path fill="#333" d="m474.843,516.208l0,-206.322c0,-6.418 -4.938,-11.355 -11.354,-11.355l-331.698,0c-6.417,0 -11.354,4.938 -11.354,11.355l0,206.816l-36.526,0l0,13.326c4.938,7.896 31.098,12.34 40.969,12.34l345.024,0c10.366,0 36.526,-4.936 40.969,-12.34l0,-13.326l-36.03,0l0,-0.494zm-340.583,-202.867l326.762,0l0,203.361l-326.762,0l0,-203.361z"/>
+  </symbol>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <use x="536.37102" y="370.92325" transform="matrix(0.3747406005859375,0,0,0.3747406005859375,0,0) " xlink:href="#svg_1" id="svg_2"/>
+  <g id="svg_3"/>
+ </g>
+</svg>
